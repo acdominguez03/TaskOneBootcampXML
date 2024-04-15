@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">TaskOneBootcampXML</string>
+    <string name="app_name">TareaUnoBootcamp</string>
+    <string name="random_text_generator">Random text generator</string>
+    <string name="change_text">Change Text</string>
+    <string name="android_logo">Android Logo</string>
 </resources>
